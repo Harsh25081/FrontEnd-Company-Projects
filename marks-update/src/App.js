@@ -9,7 +9,7 @@ const App = ()=>{
             <button className="btn btn-info" id="signup" onClick={()=>{navigate("/register")}}>Sign Up</button>
             <button className="btn btn-warning" id="login" onClick={()=>{navigate("/login")}}>Login</button>
         </div>
-        <p>This is the Digital Library</p>
+        <p>Thank You for Visting our Website</p>
         </div>
     )
 }
